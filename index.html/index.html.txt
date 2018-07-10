@@ -1,5 +1,5 @@
 <!doctype html>
-firasss
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <title>Blog Project</title>
